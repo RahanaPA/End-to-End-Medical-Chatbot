@@ -12,7 +12,7 @@ https://github.com/RahanaPA/End-to-End-Medical-Chatbot.git
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -p .medibot python=3.10 -y
+conda create -p medibot python=3.10 -y
 ```
 
 
