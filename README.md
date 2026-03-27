@@ -30,6 +30,8 @@ pip install -r requirements.txt
 ```ini
 PINECONE_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 OPENAI_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+or
+HF_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 ```
 
 
