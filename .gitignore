@@ -208,3 +208,9 @@ marimo/_lsp/
 __marimo__/
 
 
+pip
+conda
+medical_chatbot.egg-info/
+2
+demo1.ipynb
+requirements copy.txt
